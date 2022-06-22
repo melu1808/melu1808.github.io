@@ -1,0 +1,66 @@
+*{
+    background-color: black;
+}
+
+h1{
+    color: pink;
+    text-align: center;
+    border: 10px dotted violet;
+    background-color: blueviolet;
+    font-family:fantasy;
+}
+
+h2{
+    background-color: rgb(243, 148, 243);
+    box-shadow: 5px 5px 5px 5px rgb(255, 0, 234);
+    text-align: center;
+    width: 25%;
+    margin: auto;
+    font-family: Mistral;
+}
+
+.ima1{
+    position: absolute;
+    right: 100px;
+    top: 200px;
+    height: 200px;
+    box-shadow: 5px 5px 5px 5px yellow;
+}
+
+.ima2{
+    position: absolute;
+    right: 100px;
+    top: 650px;
+    height: 150px;
+    box-shadow: 5px 5px 5px 5px yellow;
+}
+
+p{
+    color: aqua;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ima3{
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    height: 200px;
+    box-shadow: 5px 5px 5px 5px yellow;
+}
+
+.ima4{
+    position: absolute;
+    left: 100px;
+    top: 650px;
+    height: 150px;
+    box-shadow: 5px 5px 5px 5px yellow;
+}
+
+.home{
+    position: absolute;
+    left: 40px;
+    top: 80px; 
+    height: 100px;
+    width: 100px;
+}
