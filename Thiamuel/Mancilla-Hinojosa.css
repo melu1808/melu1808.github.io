@@ -1,0 +1,56 @@
+.SOFTWARE{
+    font-size:25px ;
+    font-family:monospace ;
+    text-shadow: -5px -5px 2px whitesmoke, 4px 4px blueviolet, 0px 6px 1px white;
+    display: grid;
+}
+img{
+   width: 450px;
+   height: 200px; 
+}
+h2{
+    font-size:40px ;
+    font-family:chiller ;
+    text-shadow: -5px -5px 2px whitesmoke, 4px 4px black, 0px 6px 1px gray;
+}
+p{
+color: blueviolet;
+font-family:monospace ;
+text-shadow: 0 0 white;
+font-size: 25px;
+}
+body{
+    background-image: url("gif.gif");
+    background-repeat: repeat;
+    background-position: center;
+}
+h3{
+    font-size:40px ;
+    font-family:chiller ;
+    text-shadow: -5px -5px 2px whitesmoke, 4px 4px black, 0px 6px 1px gray;
+}
+h4{
+    font-size:40px ;
+    font-family:chiller ;
+    text-shadow: -5px -5px 2px whitesmoke, 4px 4px black, 0px 6px 1px gray;
+}
+.img1{
+    width: 150px;
+    height: 150px; 
+}
+.img2{
+    width: 150px;
+    height: 150px; 
+}
+.img3{
+    width: 150px;
+    height: 150px; 
+}
+.img4{
+    width: 150px;
+    height: 150px; 
+}
+.img5{
+    width: 150px;
+    height: 150px; 
+}

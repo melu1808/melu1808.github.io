@@ -1,0 +1,30 @@
+body{
+    background-image: url("doctor\ pc.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: darkred;
+}
+
+.pasos{
+    margin: auto;
+    font-family: chiller;
+    font-size: 35px;
+    color:darksalmon;
+    box-shadow: 0px 10px black;
+    text-align:center;
+    position: static;
+}
+h1{
+    color:red;
+    text-shadow: -5px -5px 2px cyan, 4px 4px orange, 0px 6px 1px pink;
+    box-shadow: 0px 10px black;
+}
+h2{
+    color: orange;
+    text-shadow: -5px -5px 2px cornflowerblue, 4px 4px red, 0px 6px 1px yellow;
+}
+img{
+    width: 150px;
+    height: 150px;
+    padding-left: 10px;
+}
